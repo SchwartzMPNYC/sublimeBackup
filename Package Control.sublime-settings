@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Emmet",
+		"JavaScript Enhancements",
+		"JsPrettier",
+		"Package Control",
+		"TerminalView"
+	]
+}
