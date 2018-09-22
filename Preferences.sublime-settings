@@ -13,7 +13,7 @@
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 15,
+	"font_size": 20,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -31,14 +31,12 @@
 	"theme": "Boxy Yesterday.sublime-theme",
 	"theme_accent_green": true,
 	"theme_bar": true,
-	"theme_find_panel_font_xl": true,
 	"theme_find_panel_size_lg": true,
 	"theme_font_xl": true,
 	"theme_icons_materialized": true,
 	"theme_quick_panel_item_selected_colored": true,
 	"theme_size_md": true,
 	"theme_statusbar_colored": true,
-	"theme_tab_font_xl": true,
 	"theme_tab_rounded": true,
 	"theme_tab_selected_filled": true,
 	"theme_tab_selected_label_bold": true,
